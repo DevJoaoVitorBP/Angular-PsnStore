@@ -1,0 +1,17 @@
+.home__container{
+	width: 90%;
+	margin: auto;
+	padding-top: 50px;
+	display: flex;
+	justify-content: space-around;
+	align-items: baseline;
+	flex-wrap: wrap;
+	border: 1px solid #ccc;
+}
+
+.menu-bar__logo{
+	display: flex;
+	margin-top: 10px;
+	margin-left: 10px;
+
+}
